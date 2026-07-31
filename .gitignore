@@ -1,0 +1,12 @@
+.DS_Store
+*/.DS_Store
+node_modules/
+node_modules
+.superpowers/
+skill-install-staging/
+skills/.redskill-lock.json
+skills/*/.redskill-installed
+skills/xiaohongshu-poster-pro/
+.env
+.env.*
+*.log

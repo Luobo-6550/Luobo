@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cinematic City Photo"
+  short_description: "生成或改造成暖调电影感城市纪实摄影与英文杂志封面排版"
+  default_prompt: "把这张照片适度重塑成 4:5 暖调电影城市纪实封面，并自动生成英文标题。"
